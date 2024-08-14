@@ -20,7 +20,7 @@ class BakeIt(Cooking):
         return True
 
 
-if __name__ == "__main_ _":
+if __name__ == "__main__":
     Bakery = BakeIt(5, 10)
     Bakery1 = BakeIt(9, 10)
 
